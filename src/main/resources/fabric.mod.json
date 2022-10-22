@@ -21,9 +21,6 @@
       "net.mandl.oxidizedarmor.OxidizedArmorMod"
     ]
   },
-  "mixins": [
-    "oxidized-armor.mixins.json"
-  ],
 
   "depends": {
     "fabricloader": ">=0.14.6",
@@ -33,6 +30,6 @@
     "oxidized": "1.6.4"
   },
   "suggests": {
-    "another-mod": "*"
+    "piglib": "*"
   }
 }

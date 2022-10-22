@@ -1,9 +1,5 @@
-# Fabric Example Mod
+# Oxidized Armor
 
-## Setup
+Extends the Oxidized mod with rose gold armor.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+**This mod depends on Oxidized and will not function without it.**
